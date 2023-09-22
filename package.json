@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/lfeliperibeiro/eslint-config-felipe-ribeiro"
+    "url": "https://github.com/wBrain-team/eslint-config-wbrain"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
